@@ -1,4 +1,3 @@
-
     apiDude-xFer is a shell program for managing data between mongodb and sql. 
     Copyright (C) 2012  apidude - Kern patton
 
@@ -17,7 +16,7 @@
 
 
 apiDude-xFer
-This is a command shell application for transfering data between mS SQL server and MongoDB. 
+This is a command shell application for transfering data between MS SQL, MSql server and MongoDB. 
 
 Conventions:
 DB - you create DBs to connect to and move data to and from.
