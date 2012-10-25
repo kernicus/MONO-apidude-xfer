@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="apidude-xFer/xFerCommands.cs">
+    <Files>
+      <File FileName="apidude-xFer/Program.cs" Line="1" Column="1" />
+      <File FileName="apidude-xFer/sqlCalls.cs" Line="1" Column="1" />
+      <File FileName="apidude-xFer/xFer.cs" Line="1" Column="1" />
+      <File FileName="apidude-xFer/xFerCommands.cs" Line="8" Column="1" />
+      <File FileName="apidude-xFer/xFerFiles.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="apidude-xFer" expanded="True">
+            <Node name="References" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/Program.cs" line="13" />
+      <Breakpoint enabled="false" file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/xFerCommands.cs" line="49" />
+      <Breakpoint enabled="false" file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/xFerCommands.cs" line="89" />
+      <Breakpoint file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/xFerCommands.cs" line="702" />
+      <Breakpoint file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/Program.cs" line="87" />
+      <Breakpoint file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/xFerCommands.cs" line="747" />
+      <Breakpoint file="/Users/kernpatton/Documents/apidude-xFer/apidude-xFer/xFerCommands.cs" line="773" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
