@@ -16,14 +16,10 @@
 
 
 apiDude-xFer
-<<<<<<< HEAD
-This is a command shell application for transfering data between MS SQL, MSql server and MongoDB. 
-=======
 This is a command shell application for transfering data between MS SQL server, MySql and MongoDB. 
 
 To get started. Create a directory on the root of your HD. /xFer and /xFer/db.
 
->>>>>>> fix documentation
 
 Conventions:
 DB - you create DBs to connect to and move data to and from.
